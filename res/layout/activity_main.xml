@@ -27,6 +27,7 @@
         android:layout_alignParentRight="true"
         android:layout_below="@+id/ChosenStudentTextview"
         android:layout_marginTop="14dp"
+        android:onClick="chooseAStudent"
         android:text="Choose A student" />
 
 </RelativeLayout>
